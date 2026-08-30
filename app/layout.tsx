@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'PackSahi | Field intelligence for compliance',
+  description: 'Inspect packaged goods, verify declarations, and act on compliance findings with PackSahi.',
   generator: 'v0.app',
   icons: {
     icon: [
